@@ -80,13 +80,13 @@ a{
     flex-direction: row;
 }
 .cat-img{
-    width: 23%;
+    width: 24%;
 }
 .cat-discription{
     width: 54%;
     text-indent: 1em;
     line-height: 28.8px;
-    font-size: 24px;
+    font-size: 26px;
 }
 .cat-img{
 display: flex;
@@ -95,7 +95,7 @@ align-items: center;
 }
 .cat-img img{
     display: block;
-    height: 50%;
+    height: 40%;
 }
 .cat-img img:first-child{
     margin-bottom: 15px;
